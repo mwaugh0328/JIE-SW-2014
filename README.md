@@ -1,6 +1,6 @@
 # JIE-SW-2014
 
-This repository contains key elements of the Code replicate results in...
+This repository contains key elements of the code to replicate results in...
 
 [1] [**The Elasticity of Trade: Estimates and Evidence**](http://www.waugheconomics.com/uploads/2/2/5/6/22563786/estimate_theta_paper.pdf), with Ina Simonovska.<br>
 Journal of International Economics, 92(1): 34-50. January 2014.
