@@ -20,4 +20,3 @@ Second, given an moment, the biased estimate from, say, Eaton and Kortum (2002),
 
 Finer points: First, the dataset provided is simply the 30 country data set used in [2]. At some point, the data set from Eaton and Kortum (2002) may be posted. Second, the actual price data used in [1] and [2] is not posted here per our user agreement. In [**estimate_theta.m**](https://github.com/mwaugh0328/JIE-SW-2014/blob/master/estimate_theta.m) I report the moment seen in the data and that is the target. Third, extensions such as over-identified, bootstrap standard errors, other moments are not posted here. They may be at some point. 
 
-Another test
