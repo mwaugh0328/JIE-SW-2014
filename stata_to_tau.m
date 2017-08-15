@@ -20,6 +20,7 @@
 
 dos('"C:\Program Files (x86)\Stata13\StataSE-64" do gravity_run.do')
 % this is a test
+% this is another test
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This loads some data and the coeffecients from the regression in stata,
 % i.e. the coeff.txt.
